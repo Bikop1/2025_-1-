@@ -1,8 +1,8 @@
 function find_edit() {
     const secondName_node = document.getElementById('secondName')
-    secondName_node.innerHTML = "<b>Okuneva</b>"
+    secondName_node.innerHTML = "<b>Omeclchenko</b>"
     const firstName_node = document.getElementById('firstName')
-    firstName_node.innerHTML = "<b>Anastasiia</b>"
+    firstName_node.innerHTML = "<b>Nikita</b>"
     const year_node = document.getElementById('year')
     year_node.innerHTML = "<b>2006</b>"
 }
